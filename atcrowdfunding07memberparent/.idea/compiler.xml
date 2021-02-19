@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="atcrowdfunding12memberauthenticationconsumer" />
+        <module name="atcrowdfunding11memberredisprovider" />
+        <module name="atcrowdfunding14memberorderconsumer" />
+        <module name="atcrowdfunding17memberapi" />
+        <module name="atcrowdfunding13memberprojectconsumer" />
+        <module name="atcrowdfunding15memberpayconsumer" />
+        <module name="atcrowdfunding10membermysqlprovider" />
+        <module name="atcrowdfunding09memberentity" />
+        <module name="atcrowdfunding08membereureka" />
+        <module name="atcrowdfunding16memberzuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
